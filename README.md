@@ -4,7 +4,8 @@ python basics workshop
 ## The Zen of Python
   `>>> import this`
 
-  `Beautiful is better than ugly.  
+  ```
+  Beautiful is better than ugly.  
   Explicit is better than implicit.  
   Simple is better than complex.  
   Complex is better than complicated.  
@@ -22,7 +23,8 @@ python basics workshop
   Although never is often better than *right* now.  
   If the implementation is hard to explain, it's a bad idea.  
   If the implementation is easy to explain, it may be a good idea.  
-  Namespaces are one honking great idea -- let's do more of those!`  
+  Namespaces are one honking great idea -- let's do more of those!
+  ```
 
 ## Installing python
   Go to [python.org](https://www.python.org/downloads/release/python-381/) and download the latest version ( workshop will use 3.8.1 ). ( If you happen to have python already installed, I'd recommend sticking to one version since having more can often cause problems when installing external packages as every python version has a different folder it installs packages into. ) On the first step of the installation proccess make sure the 'Add Python X.X to PATH' checkbox is ticked to ensure the python cli will work. This will install 3 important things:
